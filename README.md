@@ -2,9 +2,9 @@
 
 ## Problem Statement
 Banks lend money to customers in the form of personal loans, home loans etc. and credit cards. Not all of them pay it back on time. Your goal is to - 
-       -  identify which customers are likely to default.
-       -  understand why defaults happen
-       -  help reduce risk and losses
+- identify which customers are likely to default.
+- understand why defaults happen
+- help reduce risk and losses
 
 ## Tools used
   -  Python (data cleaning, EDA, modelling)
